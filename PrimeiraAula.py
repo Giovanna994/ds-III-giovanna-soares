@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyM3dAM+rzn9hDeKR0ThbCTy",
+      "authorship_tag": "ABX9TyOuidT9jImyRqURtkqqq60X",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -23,7 +23,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/Giovanna994/ds-III-giovanna-soares/blob/main/Primeira%20Aula\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/Giovanna994/ds-III-giovanna-soares/blob/main/PrimeiraAula.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -147,6 +147,34 @@
             "  *******\n",
             " *********\n",
             "     *\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Multipliacação\n",
+        "\n",
+        "num1 = 2\n",
+        "num2 = 3\n",
+        "\n",
+        "print(num1 * num2)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "8zb79czFTlXC",
+        "outputId": "b40ade2d-f91c-4dea-d817-0bfb823d5d36"
+      },
+      "execution_count": 19,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "6\n"
           ]
         }
       ]
