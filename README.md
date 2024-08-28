@@ -1,1 +1,1 @@
-# ds-III-giovanna-soares
+Repositório para as aulas de Desenvolvimento de Sistemas.
